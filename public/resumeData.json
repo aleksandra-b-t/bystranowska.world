@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Aleksandra Bystranowska-Takahashi",
+    "occupation":"New York",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"A detail-oriented and enthusiastic software engineer with experience in full stack development. With education in psychology of management, I am passionate about applying my technical skills to create impactful projects to make change. I continuously focus on self-improvement and pride myself in being agile, organized and thriving in a team environment. Willing to relocate.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "a.bystranowska.takahashi@gmail.com",
+    "phone": "516-388-0222",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"New York",
+      "zip": "11361"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bystranowska/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/letsdreamsmaketrue/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/aleksandra-b-t",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Flatiron School",
+        "degree":"Full Stack Web Development",
+        "graduated":"August 2020",
+        "description":"React, JavaScript, Ruby/Rails, SQL, RESTful Routing, Object-Oriented Programming, CSS"
+      },
+      {
+        "school":"Upper Silesian Academy of Entrepreneurship",
+        "degree":"Psychology of Management",
+        "graduated":"July 2017",
+        "description":"Modern Business - Management and Accounting."
+      }
+    ],
+    "work":[
+      {
+        "company":"ND Channel",
+        "title":"Office Manager",
+        "years":"April 2019 - March 2020",
+        "description":"Created and implemented a prioritization and order status management system which helped improve the order status tracking and made customer communications smoother resulting in less mistakes."
+      },
+      {
+        "company":"Cultural Care Au Pair",
+        "title":"Au Pair",
+        "years":"December 2017 - December 2018",
+        "description":"Designed and implemented  rules and daily routines to prevent problem behavior for atistic child and engage more successfully in activities."
+      },
+      {
+        "company":"Fabryka Formy S.A.",
+        "title":"General Manager",
+        "years":"March 2016 - November 2017",
+        "description":"Accomplished department objectives by creating a timetable for all necessary documentation, which helped improve communication between organization and accounting stuff."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
