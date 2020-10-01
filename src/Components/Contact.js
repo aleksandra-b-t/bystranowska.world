@@ -27,7 +27,9 @@ class Contact extends Component {
 
             <div className="ten columns">
 
-                  <p className="lead">{message}</p>
+                  <p className="lead">{message}</p> 
+                  <span>Get In Touch.</span> <br />
+                  <span>{email}</span>
 
             </div>
 
@@ -36,7 +38,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               {/* <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -66,28 +68,27 @@ class Contact extends Component {
                      </span>
                   </div>
 					</fieldset>
-				   </form>
+				   </form> */}
 
-           <div id="message-warning"> Error boy</div>
-				   <div id="message-success">
+           {/* <div id="message-warning"> Error boy</div> */}
+				   {/* <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
-				   </div>
+				   </div> */}
            </div>
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
+               {/* <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
+						  {state}<br />
 						   <span>{phone}</span>
 					   </p>
-				   </div>
+				   </div> */}
 
-               <div className="widget widget_tweets">
+               {/* <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
                      <li>
@@ -107,7 +108,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
+		         </div> */}
             </aside>
       </div>
    </section>

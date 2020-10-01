@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.png) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -204,11 +204,12 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   font-size: larger;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 220px;
+   height: 220px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -299,7 +300,7 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
-  	height: 42px;
+  	height: 22px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -317,10 +318,10 @@ ul#nav li.current a { color: #F06000; }
    top: 0;
 
    margin: 0;
-   padding-right: 24px;
-  	background: #313131;
+   padding-right: 4px;
+  	background: #01645D;
    display: inline-block;
-  	height: 42px;
+  	height: 22px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
@@ -645,7 +646,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-bg.png) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
