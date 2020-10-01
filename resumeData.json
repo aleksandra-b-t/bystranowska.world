@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Aleksandra Bystranowska Takahashi",
+    "occupation":"New York",
+    "description":"Extremely organized, outdoors - loving, (probably) the biggest fan of Harry Potter.  “Anyone can speak Troll. All you have to do is point and grunt”. I have a heart for ReactJs and a belly for Polish pierogi",
+    "image":"profilepic.jpg",
+    "bio":"A detail-oriented and enthusiastic software engineer with experience in full stack development. With education in psychology of management, I am passionate about applying my technical skills to create impactful projects to make change. I continuously focus on self-improvement and pride myself in being agile, organized and thriving in a team environment.",
+    "contactmessage":"Suave Young Developer Looking for Work. I wonder who might be hiring. Perhaps you? ",
+    "email": "a.bystranowska.takahashi@gmail.com",
+    "phone": "516-388-0222",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"NYC (Open to Relocation)",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/bystranowska/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/aleksandra-bystranowska-takahashi-26635a89/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/letsdreamsmaketrue/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/aleksandra-b-t",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Flatiron School",
+        "degree":"Full Stack Web Development",
+        "graduated":"August 2020",
+        "description":"React, JavaScript, Ruby/Rails, SQL, RESTful Routing, Object-Oriented Programming, CSS"
+      },
+      {
+        "school":"Upper Silesian Academy of Entrepreneurship",
+        "degree":"Psychology of Management",
+        "graduated":"July 2017",
+        "description":"Modern Business - Management and Accounting."
+      }
+    ],
+    "work":[
+      {
+        "company":"ND Channel",
+        "title":"Office Manager",
+        "years":"April 2019 - March 2020",
+        "description":"Created and implemented a prioritization and order status management system which helped improve the order status tracking and made customer communications smoother resulting in less mistakes."
+      },
+      {
+        "company":"Cultural Care Au Pair",
+        "title":"Au Pair",
+        "years":"December 2017 - December 2018",
+        "description":"Designed and implemented  rules and daily routines to prevent problem behavior for atistic child and engage more successfully in activities."
+      },
+      {
+        "company":"Fabryka Formy S.A.",
+        "title":"General Manager",
+        "years":"March 2016 - November 2017",
+        "description":"Accomplished department objectives by creating a timetable for all necessary documentation, which helped improve communication between organization and accounting stuff."
+      }
+    ],
+    "skills":[
+      
+      
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Organization",
+        "level":"90%"
+      },
+      {
+        "name":"Interpersonal",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blog",
+        "category":"My Blog for my post-study figures",
+        "image":"blog.jpg",
+        "url":"https://medium.com/@aleksandra.bystranowska"
+      },
+      {
+        "title":"One Step",
+        "category":"One step serves to help people discover new stimulating and safe activities to try.",
+        "image":"onestep.jpg",
+        "url":"https://www.youtube.com/watch?v=38aW25ZYdoU"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"A code is like love, it has created with clear intentions at the beginning, but it can get complicated.",
+        "user":"Gerry Geek"
+      },
+      {
+        "text":"You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+        "user":"John Romero"
+      }
+    ]
+  }
+}

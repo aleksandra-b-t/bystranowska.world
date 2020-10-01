@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bystranowska.world/static/css/main.5facb584.chunk.css",
+    "main.js": "/bystranowska.world/static/js/main.61b2537a.chunk.js",
+    "main.js.map": "/bystranowska.world/static/js/main.61b2537a.chunk.js.map",
+    "runtime-main.js": "/bystranowska.world/static/js/runtime-main.104564fb.js",
+    "runtime-main.js.map": "/bystranowska.world/static/js/runtime-main.104564fb.js.map",
+    "static/js/2.2fcec213.chunk.js": "/bystranowska.world/static/js/2.2fcec213.chunk.js",
+    "static/js/2.2fcec213.chunk.js.map": "/bystranowska.world/static/js/2.2fcec213.chunk.js.map",
+    "index.html": "/bystranowska.world/index.html",
+    "precache-manifest.5e19dbd8ddd5fc23923cd62be14022db.js": "/bystranowska.world/precache-manifest.5e19dbd8ddd5fc23923cd62be14022db.js",
+    "service-worker.js": "/bystranowska.world/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/bystranowska.world/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.2fcec213.chunk.js.LICENSE.txt": "/bystranowska.world/static/js/2.2fcec213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.104564fb.js",
+    "static/js/2.2fcec213.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.61b2537a.chunk.js"
+  ]
+}
