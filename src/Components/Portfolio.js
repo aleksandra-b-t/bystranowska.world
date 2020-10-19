@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import onestep from './onestep.jpg'
+import blog from './blog.jpg'
 
 class Portfolio extends Component {
   render() {
